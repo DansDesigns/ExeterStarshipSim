@@ -15,4 +15,5 @@ more to come..
 
 Install:
 copy the .lua file to /scripts
+
 copy the ring-circle.gif to /resources/planets
