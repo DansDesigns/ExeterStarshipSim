@@ -19,6 +19,7 @@ Hazards include:
 ONLY Beam Weapons are on race ships, 
 Hostile weapon platforms, 
 Warp Jammers, 
+Mines,
 Asteroid Field, 
 Hidden Blackhole, 
 more to come..
